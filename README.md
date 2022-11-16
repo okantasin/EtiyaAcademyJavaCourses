@@ -11,5 +11,5 @@
 ## Spring Boot
 ## Spring Rest
 ## Katmanlı mimari
-## Intellij idea kurulum
+## - Intellij idea kurulum
 > https://www.jetbrains.com/idea/download/#section=windows
