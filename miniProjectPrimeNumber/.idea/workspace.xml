@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8db763c-6aa9-4856-8295-b8fc6b6a26be" name="Changes" comment="" />
+    <list default="true" id="b8db763c-6aa9-4856-8295-b8fc6b6a26be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../friendsPairing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendsPairing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendsPairing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendsPairing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendsPairing/friendsPairing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../perfectNumber/perfectNumber.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vowels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vowels/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,13 +27,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
