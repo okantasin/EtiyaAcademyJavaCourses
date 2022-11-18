@@ -1,20 +1,10 @@
-# Java Courses 
+# 
 
-## Hiç programlama bilmediğinizi düşünerek, sıfırdan başlıyoruz
-## Java Nesne Yönelimli Programlama (OOP)
-## Swing arayüz
-## Spring temelleri
-## Spring IoC yazılımında sürdürülebilrlik
-## Hibernate
-## Spring, AOP, JPA, Hibernate
-## Maven
-## Spring Boot
-## Spring Rest
-## Katmanlı mimari
+
 ## - 
 > https://www.jetbrains.com/idea/download/#section=windows
 
-# Dillinger
+# Java Courses
 ## _The Last Markdown Editor, Ever_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -28,7 +18,34 @@ AngularJS-powered HTML5 Markdown editor.
 - See HTML in the right
 - ✨Magic ✨
 
-## Features
+## Headline
+
+
+| Plugin |  |
+| ------ | ------ |
+| Hiç programlama bilmediğinizi düşünerek, sıfırdan başlıyoruz  |
+| Java Nesne Yönelimli Programlama (OOP) | [plugins/github/README.md][PlGh] |
+| Swing arayüz  | [plugins/googledrive/README.md][PlGd] |
+| Spring temelleri | [plugins/onedrive/README.md][PlOd] |
+| Spring IoC yazılımında sürdürülebilrlik | [plugins/medium/README.md][PlMe] |
+|Hibernate| [plugins/googleanalytics/README.md][PlGa] |
+| Spring, AOP, JPA, Hibernate | [plugins/medium/README.md][PlMe] |
+|Maven| [plugins/googleanalytics/README.md][PlGa] |
+|Spring Boot| [plugins/medium/README.md][PlMe] |
+|Spring Rest| [plugins/googleanalytics/README.md][PlGa] |
+|Katmanlı mimari| [plugins/googleanalytics/README.md][PlGa] |
+
+### Hiç programlama bilmediğinizi düşünerek, sıfırdan başlıyoruz
+### 
+### 
+### 
+### 
+### Hibernate
+### 
+### 
+### 
+### 
+### 
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
